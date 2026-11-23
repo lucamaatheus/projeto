@@ -1,0 +1,4 @@
+nome = str(input("digite seu nome "))
+idade = int(input(" digite sua idade : "))
+sexo = str (input("digite seu sexo : "))
+print("seu nome é :" ,nome,"\n" "sua idade é :",idade,"\n" "seu sexo é :",sexo,"\n")
